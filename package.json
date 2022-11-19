@@ -5,7 +5,7 @@
   "homepage": "https://umberban.github.io/gallery-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /gallery-project/"
   },
   "repository": {
     "type": "git",
